@@ -1,0 +1,34 @@
+/*No tocar este codigo*/ 
+.sidebar-closed > #sidebar > ul {
+    display: none;
+}
+
+.sidebar-closed #main-content {
+    margin-left: 0px;
+}
+
+.sidebar-closed #sidebar {
+    margin-left: -180px;
+}
+
+/*Escribe aqui tu codigo */
+.navbar-collapse{
+	background-color:#07021E;
+}
+
+.sidebar{
+	background-color:#07021E;	
+}
+
+.text-center{
+	color:#ffffff;
+}
+
+.sub-menu{
+	color:#ffffff;
+}
+
+/*Escribe aqui tu codigo */
+.nav-collapse{
+	border-color:#56FD8B;
+}
